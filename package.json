@@ -1,0 +1,12 @@
+{
+  "name": "coinapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/coinapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aris Bota",
+  "license": "MIT"
+}
